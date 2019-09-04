@@ -1,2 +1,3 @@
-# chili
-My first repository.
+#chili
+
+A man in charge.
